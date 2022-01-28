@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+
+        <!--Main Activity Strings -->
+    <string name="action_roll">Roll</string>
+    <string name="action_one">One</string>
+    <string name="action_two">Two</string>
+    <string name="action_three">Three</string>
+    <string name="action_stop">Stop</string>
+    <string name="dice_one">1</string>
+    <string name="total">Total:</string>
+    <string name="total_sum">Total: %2i </string>
+
+    <!--Main Screen Strings -->
+    <string name="objective_description">This game is all about luck. You will play a game of Dice. You can choose the number of dice using the options menu. To roll the dice click the roll button located next to the options menu up at the toolbar. You can also cancel a roll if you want the dice to stop. The cancel button is also located at the toolbar but is only visible once you have rolled.</string>
+    <string name="objective">Objective</string>
+    <string name="how_to_win">How To Win</string>
+    <string name="win_description">In order to win at this game, you must meet certain conditions. During the game every time you roll you will be given a total that displays the sum of the number of dice. If you choose one die, to win you must get an even total, if you get an odd total you lose. If you choose two dice then you must get a total of 7 or 11, however if you get a 2 or a 12 you lose. Lastly if you choose three dice then if your total is divisible by 7 or 11 you win, but if you get a total of 3 or 18 you lose. Good Luck!  </string>
+    <string name="play_game">Play Game</string>
+    <string name="highscore">High Score: </string>
+
+    <!-- Dialog title -->
+    <string name="pick_roll_length">Roll length?</string>
+
+    <!-- Dialog list options -->
+    <string-array name="length_array">
+        <item>Short</item>
+        <item>Medium</item>
+        <item>Long</item>
+    </string-array>
+    <!-- Context Menu Screen -->
+    <string name="add_one">Add one</string>
+    <string name="subtract_one">Subtract one</string>
+    <string name="roll">Roll</string>
+
+
+</resources>
